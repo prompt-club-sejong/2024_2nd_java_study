@@ -31,7 +31,7 @@ week_1
 │   │   ├── *.png
 │   │   ├── *.jpg
 │   ├── lib
-│   │   ├── ExampleClass1.java
+│   │   ├── ExampleLib.jar
 │   ├── src
 │   │   ├── App.java
 │   ├── README.md
