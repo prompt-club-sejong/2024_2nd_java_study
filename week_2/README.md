@@ -33,6 +33,8 @@ You are 22 years old.
 |이름|닉네임|확인✔|
 |---|------|----|
 |김민우|[M1nu0x0](https://github.com/M1nu0x0)|✔|
+|김서윤|[TomnJelly](https://github.com/TomnJelly)||
+|배현진|[hyunjin809](https://github.com/hyunjin809)||
 
 ## 2주차 발표자
 **[발표자](https://github.com/발표자)**
