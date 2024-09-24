@@ -52,4 +52,4 @@ week_1
 |배현진|[hyunjin809](https://github.com/hyunjin809)|✔|
 
 ## 1주차 발표자
-**[발표자](https://github.com/발표자)**
+**김서윤 [TomnJelly](https://github.com/TomnJelly)**
