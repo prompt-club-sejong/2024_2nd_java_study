@@ -1,6 +1,6 @@
 # Week 1 스터디
 ## 스터디 기간(과제 제출 기간)
-24.09.16 ~ 24.09.20
+24.09.16 ~ 24.09.24
 
 ## 스터디 주제
 ### README 스터디 내용 정리 세부 주제
@@ -48,8 +48,8 @@ week_1
 |이름|닉네임|확인✔|
 |---|------|----|
 |김민우|[M1nu0x0](https://github.com/M1nu0x0)|✔|
-|김서윤|[TomnJelly](https://github.com/TomnJelly)||
-|배현진|[hyunjin809](https://github.com/hyunjin809)||
+|김서윤|[TomnJelly](https://github.com/TomnJelly)|✔|
+|배현진|[hyunjin809](https://github.com/hyunjin809)|✔|
 
 ## 1주차 발표자
-**[발표자](https://github.com/발표자)**
+**김서윤 [TomnJelly](https://github.com/TomnJelly)**
