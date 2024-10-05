@@ -11,8 +11,3 @@ public class week_02 {
         System.out.println("You are " + age + " years old");
     }
 }
-
-//Enter your name: {M1nu0x0}
-//Hello, M1nu0x0!
-//Enter your age: {22}
-//You are 22 years old.
