@@ -39,7 +39,7 @@ Program exited successfully
 |---|------|----|
 |김민우|[M1nu0x0](https://github.com/M1nu0x0)|✔|
 |김서윤|[TomnJelly](https://github.com/TomnJelly)||
-|배현진|[hyunjin809](https://github.com/hyunjin809)||
+|배현진|[hyunjin809](https://github.com/hyunjin809)|✔|
 
 ## 4주차 발표자
 **[발표자](https://github.com/발표자)**
