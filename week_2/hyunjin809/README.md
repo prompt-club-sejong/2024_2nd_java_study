@@ -9,11 +9,11 @@
  
  Primitive Type은 스택(Stack) 메모리에 저장된다.   
  
- ![primitive type](./img/primitive_type.png)
+ ![primitive type](./assets/primitive_type.png)
 
 *레퍼 클래스 : 기본 자료타입(primitive type)을 객체로 다루기 위해서 사용하는 클래스들   
 
-![wrapper_class](./img/wrapper_class.webp)
+![wrapper_class](./assets/wrapper_class.webp)
 
 *박싱 : 기본타입의 데이터 -> 래퍼 클래스의 인스턴스로 변환하는 과정   
 
@@ -36,7 +36,7 @@ Reference Type은 Primitive Type과 달리 빈 객체를 의미하는 Null 개�
 
 문법상으로 에러가 없지만, 실행시 에러가 나는 런타임 에러가 발생한다. 예를 들어, 객체나 배열을 Null 값으로 받으면 NullPointException 에러가 발생하므로 그에 대한 널처리를 하는 등의 조치가 필요하다.   
 
-![Reference type](./img/Reference_type.png)
+![Reference type](./assets/Reference_type.png)
 
 *Objects : 모든 클래스의 조상 클래스로 가장 최상위 클래스이다. Object는 어떤 클래스가 됐든 간에 모든 클래스를 상속하기 때문에 Object의 멤버는 모든 클래스의 멤버가 된다. 부모가 없는 클래스는 자동적으로 Object 클래스를 상속받는다.
 
@@ -46,7 +46,7 @@ Reference Type은 Primitive Type과 달리 빈 객체를 의미하는 Null 개�
 
 *인스턴스 : 클래스를 바탕으로 실체화되어 메모리에 할당된 실체   
 
-![instance](./img/instance.png)
+![instance](./assets/instance.png)
 
 *메서드 : 클래스(Class)의 내부에 존재하는 영역으로, 특정 기능을 하는 코드를 묶어서 나타내는 것이다. 즉, 특정 기능을 수행하기 위한 코드들의 집합체이다.
 
@@ -78,7 +78,7 @@ E(e)는 10의 제곱을 나타내는 기호이다. "p"나 "P" 기호는 2의 제
 
 논리 리터럴 (boolean) : true, false로 구성.   
 
-![literal](./img/2_2.png)
+![literal](./assets/2_2.png)
 
 *유도형 데이터타입 : 기본 타입으로부터 유도되어 생성된 타입
 
@@ -147,7 +147,7 @@ ex : int a = 5; // 변수 a 초기화
     float / double 의 경우 0.0
     bool의 경우 false, char의 경우 \u0000   
 
-![array](./img/array.png)   
+![array](./assets/array.png)   
 1차원 배열을 선언하는 방법으로 3가지가 있다.    
     
     int[] a; //1   
@@ -215,7 +215,7 @@ Var는 런타임 오버헤드가 없다. 컴파일 시점에 var를 초기화된
 *멤버변수 : 필드라고도 불리며, 클래스 영역에 선언된 변수로, ‘클래스변수, 인스턴스변수’를 통틀어 칭한다. 객체가 가지고 있는 속성과 기능을 그 객체의 ‘멤버’라 하는데, 이 중 속성은 ‘멤버변수’라고 칭하고, 기능은 ‘메소드’라고 칭한다.
 
 파라미터 : 매개변수라고도 불리며, 메소드 수행에 필요한 입력값을 저장하는 변수이다. 파라미터는 메소드의 구조상에서 소괄호 사이에 위치한다.
-![parameter](./img/parameter.png)
+![parameter](./assets/parameter.png)
 
 *리턴 타입 : 리턴 값의 타입
 
