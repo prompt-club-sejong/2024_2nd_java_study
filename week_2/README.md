@@ -37,4 +37,4 @@ You are 22 years old.
 |배현진|[hyunjin809](https://github.com/hyunjin809)|✔|
 
 ## 2주차 발표자
-**배현진 [hyunjin809](https://github.com/hyunjin809))**
+**배현진 [hyunjin809](https://github.com/hyunjin809)**
