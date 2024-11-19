@@ -30,8 +30,8 @@ Class를 만들고 사용해봅시다.
 |이름|닉네임|확인✔|
 |---|------|----|
 |김민우|[M1nu0x0](https://github.com/M1nu0x0)|✔|
-|김서윤|[TomnJelly](https://github.com/TomnJelly)||
-|배현진|[hyunjin809](https://github.com/hyunjin809)||
+|김서윤|[TomnJelly](https://github.com/TomnJelly)|✔|
+|배현진|[hyunjin809](https://github.com/hyunjin809)|✔|
 
 ## 5주차 발표자
-**[발표자](https://github.com/발표자)**
+**[김서윤](https://github.com/TomnJelly)**
