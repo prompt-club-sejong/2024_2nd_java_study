@@ -1,10 +1,10 @@
 import java.util.Scanner;
 
-public class Circle {
+public class Cricle {
     private int radius;
     private final static double PI = 3.14;
 
-    public Circle(int radius){
+    public Cricle(int radius){
         set_radius(radius);
     }
     public int get_radius(){
@@ -28,7 +28,7 @@ public class Circle {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int inputRadius = scanner.nextInt();
-        Circle circle = new Circle(inputRadius);
+        Cricle circle = new Cricle(inputRadius);
         circle.printCircle();
         scanner.close();
     }
